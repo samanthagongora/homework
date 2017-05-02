@@ -1,3 +1,5 @@
+Samantha Gongora May 2, 2017
+
 =begin
 tying your shoes
 1. Place your shoe so that the toe faces away from you
@@ -12,6 +14,7 @@ tying your shoes
 10. Pull both loops tight
 =end
 
+=begin
 Bad Connection:
 
 How will you know when the problem is solved?
@@ -49,3 +52,4 @@ until ready_to_quit
 end
 
 puts "THANK YOU FOR CALLING!"
+=end
