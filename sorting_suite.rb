@@ -54,7 +54,6 @@ sorter.sort([3, 4, 2, 4, 9, 3, 0, 2, 5, 4, 3, 7])
 
 class MergeSort
   def sort(group)
-
     return group if group.length <= 1
 
     left_half = split_left(group)
